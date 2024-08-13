@@ -21,7 +21,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## Welcome
 
-GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This lab will walk you through creating and using headings more effectively organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
+GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
 
 In this lab, you'll:
 
@@ -30,6 +30,10 @@ In this lab, you'll:
 3. Add a code example
 4. Make a task list
 5. Merge your pull request
+
+### How to start this course
+
+After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 <footer>
 
